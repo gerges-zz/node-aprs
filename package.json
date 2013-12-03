@@ -1,0 +1,24 @@
+{
+  "name": "aprs",
+  "version": "1.0.0",
+  "description": "A NodeJS module for retrieving and parsing APRS data over serial",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:gerges/node-aprs.git"
+  },
+  "keywords": [
+    "aprs"
+  ],
+  "dependencies": {
+    "underscore": "*"
+  },
+  "author": "Issac Gerges <gerges@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gerges/node-aprs/issues"
+  }
+}
